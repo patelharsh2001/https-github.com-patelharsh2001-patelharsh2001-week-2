@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "node": "^17.4.0"
+  },
+  "name": "https-github.com-patelharsh2001-patelharsh2001-week-2",
+  "description": "Demo for week 2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelharsh2001/https-github.com-patelharsh2001-patelharsh2001-week-2.git"
+  },
+  "author": "Harsh Patel 301175911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelharsh2001/https-github.com-patelharsh2001-patelharsh2001-week-2/issues"
+  },
+  "homepage": "https://github.com/patelharsh2001/https-github.com-patelharsh2001-patelharsh2001-week-2#readme"
+}
