@@ -5,6 +5,12 @@
   "scripts": {
     "start": "node ./server.js"
   },
+  "engines": {
+    "node" :"v17.3.1",
+    "npm" :"^6.0.0"
+   },
+
+
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^5.1.3",
